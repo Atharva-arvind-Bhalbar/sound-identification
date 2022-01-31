@@ -1,0 +1,34 @@
+body
+{
+    font-family: 'Comforter', cursive;
+    background-color:black ;
+    color: yellow;
+}
+.header_div
+{
+    background: #076aa3 ;
+    color: yellow;
+}
+.header_div p{
+    color: black;
+    font-size: medium;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+.main_div button {
+    font-family: 'Merriweather', serif;
+    margin-top: 30px ;
+    width: 130px;
+    font-weight: bolder ;
+    letter-spacing: 3px;
+    background-color: rgb(255, 0, 0);
+}
+.copy_right_footer{
+    position: fixed;
+    color:cornsilk;
+    font-size: 18px;
+    bottom:0;
+    width: 100%;
+    text-align: center;
+    text-shadow: 5px 5px 5px  rgb(7, 103, 163);
+}
